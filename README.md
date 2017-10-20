@@ -7,7 +7,6 @@ I made it in bash because of better compatibillity just in case a machine would 
 <strong>USAGE:</strong>
 <p>
 <pre><code>[+] Usage: sudo ./softsteps.sh
-[+] snmpversion can be either 1 or 2c
 </code></pre>
 
 
